@@ -5,3 +5,7 @@ This a algorithm made with [python](https://en.wikipedia.org/wiki/Python_(progra
 For use it, you need **python 3.9.2** or higher and the base libraries.
 
 *Play with it and go crazy*
+
+## License
+
+Licensed under the [Apache License](https://github.com/Guillex387/special-counter/blob/master/LICENSE), Version 2.0. Copyright 2021 Guillex387
